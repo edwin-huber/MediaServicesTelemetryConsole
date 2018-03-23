@@ -40,14 +40,14 @@ In my topology, I had both :
 
 a **Passthrough** Live Streaming endpoint:
 
-![live_pass_through_sample](./images/live_pass_through_sample.png)
+![live_pass_through_sample](./images/live_pass_through_sample.PNG)
 
 an endpoint using **Live Encoding** :
 
 
-![live_encoding](./images/live_encoding.png)
+![live_encoding](./images/live_encoding.PNG)
 
-![live_encoding_sample](./images/live_encoding_sample.png)
+![live_encoding_sample](./images/live_encoding_sample.PNG)
 
 
 To get this setup, you can use the  following article as a rough guide:
@@ -60,7 +60,7 @@ For my test, I did not have very much bandwidth to spare... so my settings were 
 
 ![wirecast_output_settings](./images/wirecast_output_settings.png)
 
-![wirecast_azure_preset](./images/wirecast_azure_preset.png)
+![wirecast_azure_preset](./images/wirecast_azure_preset.PNG)
 
 and the button to broadcast the stream:
 
